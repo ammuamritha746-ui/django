@@ -20,3 +20,4 @@ from greeting import views
 urlpatterns = [
   path('', views.greeting)
 ]
+
